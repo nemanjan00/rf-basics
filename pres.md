@@ -1,5 +1,7 @@
 # RF 101 - from Hz, to GHz in 1h
 
+I was told RF is magic, so I decided to really make it into magic
+
  * I solemnly swear I am up to no good
  
  * This will be your marauders map for your way around RF
@@ -69,3 +71,9 @@ How many times a second does oscillation happen?
 ...
 
 So, he is flapping them wings at 3Hz...
+
+## That quidditch start whistle frequency made my butterbeer glass break
+
+I used to know what resonance was, but I drank too much butterbeer.
+
+I will hit these tuning forks a bit, maybe it will wake me up... 
