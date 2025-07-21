@@ -29,3 +29,23 @@
     * Intuition is our best friend - so lets develop it
 
     * Starting point for future learning
+
+## Why do you have potions making kit in front of you?
+
+ * I will be using mix of modern tools and oldschools pysics tools like tuning forks
+
+ * This will be very much practical talk
+
+ * I will try to make as cheap as possible to replicate it home
+
+## Let them hippogriff wings oscillate
+
+Time to take off... 
+
+If I had to define single thing as building block of RF, it would be oscillation
+
+But, what the fuck is that, what it is for and why does it not work?
+
+You can think of anything that is periodically repeating as oscillation...
+
+Seasons are for example oscillation
