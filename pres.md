@@ -81,3 +81,11 @@ I used to know what resonance was, but I drank too much butterbeer.
 I will hit these tuning forks a bit, maybe it will wake me up... 
 
 Wait, I hit just one, why is other one shaking too?
+
+Resonance: 
+
+ * Object *likes to oscillate* at certain frequency
+
+    * Takes maximum of energy in that frequency
+
+    * Transmits maximum of energy at that frequency
