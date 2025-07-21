@@ -26,6 +26,8 @@ I was told RF is magic, so I decided to really make it into magic
 
     * A lot of you probably know RF a lot better than me
 
+    * I will not talk much about RF, but you will see why later
+
  * What it is
 
     * Intuition is our best friend - so lets develop it
