@@ -74,6 +74,8 @@ How many times a second does oscillation happen?
 
 So, he is flapping them wings at 3Hz...
 
+(I will clap at certain rate, to show the frequency)
+
 ## That quidditch start whistle frequency made my butterbeer glass break
 
 I used to know what resonance was, but I drank too much butterbeer.
@@ -89,3 +91,26 @@ Resonance:
     * Takes maximum of energy in that frequency
 
     * Transmits maximum of energy at that frequency
+
+(I will be using 2 tuning forks, to show off resonance)
+
+## She is shaking that wand just the right way, it is releasing so much power (👼)
+
+If you introduce oscillation in object at the frequency it is resonant at, it will release that oscillation into the air... 
+
+If there are oscillations in the air around at resonant frequencies, they will be picked up by resonant object...
+
+(I will use tuning fork and signal generator connected to the speaker, to demonstrate resonance at specific frequency, I will be changing frequency)
+
+## Hagrid clapped my back so hard I almost fell off the chair
+
+Amplitude is how hard something is oscillating...
+
+(I will demonstrate amplitude with how hard I hit tuning forks, the harder I hit them, the harder other one oscillates)
+
+## My friends really likes Hermione, but we are at Snapes class, how do we send her the message?
+
+We are crap at charms so we can not send her flying note, but we are plenty good at hitting our cauldrons using our wands, at their resonant frequency, and she has the same model... It was on discount... 
+
+So, we want to encode data, but, how?
+
