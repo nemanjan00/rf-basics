@@ -48,4 +48,22 @@ But, what the fuck is that, what it is for and why does it not work?
 
 You can think of anything that is periodically repeating as oscillation...
 
-Seasons are for example oscillation
+ * Seasons are for example oscillation
+
+ * Your heartbeat
+
+ * Seconds ticking
+
+It is important to think of oscillation as something abstract
+
+## That hippogriff is crazy fast, he is flapping his wings 3 times a second
+
+How many times a second does oscillation happen?
+
+ * Once - Hz
+
+ * Thousand of times - kHz
+
+ * Million times - MHz
+
+...
