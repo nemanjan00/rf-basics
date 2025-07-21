@@ -111,6 +111,21 @@ Amplitude is how hard something is oscillating...
 ## My friends really likes Hermione, but we are at Snapes class, how do we send her the message?
 
 We are crap at charms so we can not send her flying note, but we are plenty good at hitting our cauldrons using our wands, at their resonant frequency, and she has the same model... It was on discount... 
-
 So, we want to encode data, but, how?
+
+I can slightly alter frequency - FM - Frequency modulation
+
+I can alternate harder and softer hits - AM - Amplitude modulation
+
+...
+
+And I can use that thing muggles use morse?
+
+## Someones frog ate my morse code book
+
+Perhaps I could modulate analog signal?
+
+Like my voice?
+
+What if I hit it super fast and change amplitude based off amplitude of my voice?
 
