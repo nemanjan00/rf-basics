@@ -129,3 +129,10 @@ Like my voice?
 
 What if I hit it super fast and change amplitude based off amplitude of my voice?
 
+## Hermione was so confused by random clapping that she put her unicorn horn into cauldron too early
+
+Now, she is starting to notice soft voice coming out of her cauldron... 
+
+Maybe she can amplify it? 
+
+She grabs glass from nearby, connects it to her cauldron and starts demodulating AM, listening to my friend... 
