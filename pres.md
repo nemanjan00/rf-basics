@@ -32,6 +32,8 @@ I was told RF is magic, so I decided to really make it into magic
 
     * Starting point for future learning
 
+    * You might not be able to understand rubber duck after this, but, you will be pwning them conspiracy theory muggles
+
 ## Why do you have potions making kit in front of you?
 
  * I will be using mix of modern tools and oldschools pysics tools like tuning forks
