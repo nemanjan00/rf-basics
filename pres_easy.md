@@ -20,6 +20,20 @@
 
 * Sinewave
 
+## Resonance
+
+* Capacitance
+
+    * Reservoir and water that changes flow speed
+
+* Inductance
+
+    * Heavy pendulum and inertia
+
+* Capacitance and inductance cancel each other out and we get resonance
+
+* Antenna "likes" to *transmit* and *receive* energy of that frequency
+
 ## Frequency and wavelength
 
 * Frequency is how many times per second oscillation happens (Hz)
