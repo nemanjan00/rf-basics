@@ -40,7 +40,11 @@
 
 * Frequency is how many times per second oscillation happens (Hz)
 
-* Wavelength is how much wave travels during second (m)
+    * Hz, kHz, MHz, THz...
+
+* Wavelength is how much wave travels during one oscillation (m)
+
+![Spectrum example](./spectrum.jpg)
 
 ## Amplitude
 
@@ -54,15 +58,23 @@
 
     * 10dB = 10x
 
-    * 20dB = 20x
+    * 20dB = 100x
 
-    * 30dB = 100x
+    * 30dB = 1000x
 
 * Why dB?
 
     * Huge amount of dynamic range
 
     * Inverse square law - not linear
+
+* What is dBm then?
+
+    * dBm is power compated to 1mW
+
+    * -10dBm = 0.1mW
+
+    * 10dBm = 10mW
 
 ## Filtering
 
@@ -112,7 +124,9 @@
 
 ## Digitizing
 
-* Niquist rule
+* Nyquist rule
+
+    * 20MSPS ADC can reliably capture 10Mhz signal
 
 * ADC (analog to digital converter) is a filter
 
