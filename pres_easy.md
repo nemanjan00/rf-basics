@@ -144,6 +144,44 @@
 
 Really simple
 
+## Impedance and impedance matching
+
+* Impedance match == you are sending V that is "expected" further on in the circuit
+
+* When you turn on circuit, you see ringing, that is caused by impedance mismatch
+
+* We induce current in return path, in reverse direction
+
+* We "prepare" flow of current for impedance of termination (antenna)
+
+* 50Ohm as standard - good balance between power handling and loss
+
+* VSWR (or SWR, as hams call it) - difference between expected impedance (50Ohm -> 75Ohm == 1:1.5 VSWR)
+
+* Reflection can fry transmitter
+
+* Reflections cause distortion
+
+* Smith chart
+
+## Tuning antenna
+
+* Antenna is "terminator" for transmission line
+
+* Needs to be the same impedance as transmission line (or we need impedance transformer)
+
+* We are measuring how good antenna terminates circuit, but not really how good antenna is (50Ohm resistor)
+
+* Antenna radiation pattern and gain
+
+    * Reference antenna - dBd and dipole - dBi isotropic antenna (does not exist)
+
+* Field strenth measurement (0dBi antenna)
+
+## Spectrum analysis
+
+* We can measure power over frequencies
+
 ## Contact
 
 * [github.com/nemanjan00](https://github.com/nemanjan00)
