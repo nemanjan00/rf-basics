@@ -46,6 +46,10 @@
 
 * You can extract that oscillation from sum of a lot of oscillations
 
+* Antenna is a filter
+
+* Frequency response
+
 ## Modulation
 
 * How do we encode useful data in oscillation
@@ -73,6 +77,24 @@
 ## Mixing
 
 * You can shift around that oscillation to other frequencies
+
+* New signal is sum and difference of new signals
+
+## IQ signal
+
+* When mixing in the middle of some signal, it gets reflected on both sides of 0Hz
+
+* To combat that, we mix it with same frequency, with 90 degrees offset and we digitize it as 2 different signals
+
+* This allows us to have negative frequencies
+
+## Digitizing
+
+* Niquist rule
+
+* ADC (analog to digital converter) is a filter
+
+* Frequency response of ADC
 
 ## Contact
 
