@@ -34,6 +34,8 @@
 
 * Antenna "likes" to *transmit* and *receive* energy of that frequency
 
+* Antenna can be RF antenna, microphone/speaker, light source/sensor, etc.
+
 ## Frequency and wavelength
 
 * Frequency is how many times per second oscillation happens (Hz)
@@ -43,6 +45,18 @@
 ## Filtering
 
 * You can extract that oscillation from sum of a lot of oscillations
+
+## Modulation
+
+* How do we encode useful data in oscillation
+
+* We turn it on/off?
+
+* We change amplitude?
+
+* We slightly change frequency?
+
+* We slightly change phase?
 
 ## Mixing
 
