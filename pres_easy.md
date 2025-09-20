@@ -96,6 +96,10 @@
 
 * Frequency response of ADC
 
+* Dynamic range
+
+* AGC (automatic gain control)
+
 ## Digital filtering
 
 * CPU intensive
