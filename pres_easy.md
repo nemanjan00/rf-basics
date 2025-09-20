@@ -70,7 +70,7 @@
 
 * What is dBm then?
 
-    * dBm is power compated to 1mW
+    * dBm is power compared to 1mW
 
     * -10dBm = 0.1mW
 
@@ -176,7 +176,7 @@ Really simple
 
     * Reference antenna - dBd and dipole - dBi isotropic antenna (does not exist)
 
-* Field strenth measurement (0dBi antenna)
+* Field strength measurement (0dBi antenna)
 
 ## Spectrum analysis
 
