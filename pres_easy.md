@@ -96,6 +96,14 @@
 
 * Frequency response of ADC
 
+## Digital filtering
+
+* CPU intensive
+
+## Digital mixing
+
+Really simple
+
 ## Contact
 
 * [github.com/nemanjan00](https://github.com/nemanjan00)
