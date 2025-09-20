@@ -16,7 +16,7 @@
 
 ## Oscillation
 
-* Constant
+* Constant - does not carry any information
 
 * Sinewave
 
@@ -44,11 +44,13 @@
 
 * Wavelength is how much wave travels during one oscillation (m)
 
+* Higher frequency - shorter wavelength
+
 ![Spectrum example](./spectrum.jpg)
 
 ## Amplitude
 
-* In case of sound, it is air pressure
+* In case of sound, it is air pressure (dBA)
 
 * In case of RF, it is dBm
 
@@ -61,6 +63,8 @@
     * 20dB = 100x
 
     * 30dB = 1000x
+
+* Scale is log, not linear
 
 * Why dB?
 
@@ -108,13 +112,17 @@
 
 * More bandwith
 
-* Filtering before transmitting
+* Filtering before transmitting (Filter 10kB/s signal to 20kHz - low pass)
+
+    * Note: 1 bit == 1 symbol
 
 ## Mixing
 
 * You can shift around that oscillation to other frequencies
 
 * New signal is sum and difference of new signals
+
+* Warning (DC offset) - it is good idea to stay away from exacly 0Hz and to remove DC
 
 ## IQ signal
 
@@ -184,6 +192,10 @@ Really simple
 
 * We can measure power over frequencies
 
+* FFT - Converts time domain to frequency domain
+
+* Swept specrtum analyzer (with filter and RF detector)
+
 ## Modulation analysis
 
 * Modulation examples:
@@ -206,7 +218,7 @@ Really simple
 
 * Replay attack
 
-* Using URH to figure out modulation parameters and demodulate data
+* Using URH (universial radio hacker) to figure out modulation parameters and demodulate data
 
 * YardStickONE and other based CC1101 or similar chips for TX and RX
 
