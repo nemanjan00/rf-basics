@@ -138,3 +138,29 @@ Now, she is starting to notice soft voice coming out of her cauldron...
 Maybe she can amplify it? 
 
 She grabs glass from nearby, connects it to her cauldron and starts demodulating AM, listening to my friend... 
+
+- Sine
+    * Why does sound of constant amplitude not sound
+    * Why sine
+- Frequency
+    * What is frequency
+    * What is wavelength
+- Resonance
+    * What is frequency - naturally likes to vibrate at certain frequency - transfer energy out
+- Modulation
+    * What is it and how to do it
+- Mixing
+    * Downconversion and IQ
+- Digital modulation
+    * OOK
+- Digital demodulation
+    * For example, in case of OOK, just downconvert signal to 0Hz and low pass filter it
+- Spectrum analysis
+    * Demo of RF around us
+- SDR demo for RX
+    * Band pass, downconvert, demodulate, decimate, play
+- SDR demo fot TX
+    * FM radio TX
+- Antennas
+    * Radiation pattern
+    * Measuring and making antennas
