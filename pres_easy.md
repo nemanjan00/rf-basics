@@ -42,6 +42,28 @@
 
 * Wavelength is how much wave travels during second (m)
 
+## Amplitude
+
+* In case of sound, it is air pressure
+
+* In case of RF, it is dBm
+
+* What is dB?
+
+    * 0dB = 1x
+
+    * 10dB = 10x
+
+    * 20dB = 20x
+
+    * 30dB = 100x
+
+* Why dB?
+
+    * Huge amount of dynamic range
+
+    * Inverse square law - not linear
+
 ## Filtering
 
 * You can extract that oscillation from sum of a lot of oscillations
