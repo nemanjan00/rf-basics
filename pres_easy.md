@@ -96,6 +96,8 @@
 
 * We slightly change phase?
 
+* FM (frequency modulation), AM (amplitude modulation), PM (phase modulation) - you can modulate both analog and digital waveform
+
 ## What is phase?
 
 * Rewinding or jumping around sinewave
@@ -181,6 +183,24 @@ Really simple
 ## Spectrum analysis
 
 * We can measure power over frequencies
+
+## Modulation analysis
+
+* Modulation examples:
+
+    * FSK (Frequency shift keying)
+
+    * ASK (Amplitude shift keying)
+
+    * PSK (Phase shift keying)
+
+    * QAM (Quadrature amplitude - both phase and amplitude)
+
+    ...
+
+* Eye diagram
+
+* Constellation diagram
 
 ## SDR uses for hackers
 
