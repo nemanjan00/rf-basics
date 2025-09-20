@@ -58,6 +58,18 @@
 
 * We slightly change phase?
 
+## What is phase?
+
+* Rewinding or jumping around sinewave
+
+## Digital modulation, and effects of square signal on RF (harmonics)
+
+* Squarewave signal contains frequency elements of a lot of frequencies
+
+* More bandwith
+
+* Filtering before transmitting
+
 ## Mixing
 
 * You can shift around that oscillation to other frequencies
