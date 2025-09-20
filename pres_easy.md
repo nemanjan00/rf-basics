@@ -182,6 +182,24 @@ Really simple
 
 * We can measure power over frequencies
 
+## SDR uses for hackers
+
+* Replay attack
+
+* Using URH to figure out modulation parameters and demodulate data
+
+* YardStickONE and other based CC1101 or similar chips for TX and RX
+
+    * Once you know modulation parameters, fastest way to implement RX and TX is using modems that are premade
+
+* Tools like flipper zero try to take data, recognize it and understand the meaning
+
+    * Rolling code
+
+    * Encryption (Keeloq)
+
+* Rolljam
+
 ## Contact
 
 * [github.com/nemanjan00](https://github.com/nemanjan00)
