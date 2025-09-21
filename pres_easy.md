@@ -144,6 +144,8 @@ mainfont: Noto Sans
 
 * Warning (DC offset) - it is good idea to stay away from exactly 0Hz and to remove DC
 
+![](./images/mixer.png)
+
 # IQ signal
 
 * When mixing in the middle of some signal, it gets reflected on both sides of 0Hz
@@ -289,3 +291,5 @@ mainfont: Noto Sans
 * [github.com/nemanjan00](https://github.com/nemanjan00)
 
 * [x.com/nemanjan00](https://x.com/nemanjan00)
+
+# Questions!
