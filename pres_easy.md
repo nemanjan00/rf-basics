@@ -22,6 +22,10 @@ mainfont: Noto Sans
 
 # About presentation
 
+* Feel free to take pictures
+
+* [github.com/nemanjan00/rf-basics](https://github.com/nemanjan00/rf-basics)
+
 * Questions will be on the end
 
 * Idea is, hopefully anyone from beginner to advanced RF guy will learn something
