@@ -142,7 +142,7 @@ mainfont: Noto Sans
 
 * New signal is sum and difference of new signals
 
-* Warning (DC offset) - it is good idea to stay away from exacly 0Hz and to remove DC
+* Warning (DC offset) - it is good idea to stay away from exactly 0Hz and to remove DC
 
 # IQ signal
 
@@ -168,7 +168,7 @@ mainfont: Noto Sans
 
 # Digital filtering
 
-* Inperfect, just as analog filtering
+* Imperfect, just as analog filtering
 
 * CPU intensive
 
@@ -226,7 +226,7 @@ mainfont: Noto Sans
 
 * FFT - Converts time domain to frequency domain
 
-* Swept specrtum analyzer (with filter and RF detector)
+* Swept spectrum analyzer (with filter and RF detector)
 
 # Modulation analysis
 
@@ -250,7 +250,7 @@ mainfont: Noto Sans
 
 * Replay attack
 
-* Using URH (universial radio hacker) to figure out modulation parameters and demodulate data
+* Using URH (universal radio hacker) to figure out modulation parameters and demodulate data
 
 * YardStickONE and other based CC1101 or similar chips for TX and RX
 
