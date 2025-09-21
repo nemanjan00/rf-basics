@@ -1,6 +1,13 @@
-# RF 101 - from Hz, to GHz in 1h
+---
+title: "RF 101 - from Hz, to GHz in 1h"
+author: "Nemanja Nedeljkovic"
+colortheme: "dolphin"
+fontsize: 9pt
+lang: en-US
+mainfont: Noto Sans
+---
 
-## Who am I?
+# Who am I?
 
 * Hacker
 
@@ -14,13 +21,13 @@
 
 * My employer does not care if my opinion is considered to reflect theirs
 
-## Oscillation
+# Oscillation
 
 * Constant - does not carry any information
 
 * Sinewave
 
-## Resonance
+# Resonance
 
 * Capacitance
 
@@ -36,7 +43,7 @@
 
 * Antenna can be RF antenna, microphone/speaker, light source/sensor, etc.
 
-## Frequency and wavelength
+# Frequency and wavelength
 
 * Frequency is how many times per second oscillation happens (Hz)
 
@@ -48,7 +55,7 @@
 
 ![Spectrum example](./spectrum.jpg)
 
-## Amplitude
+# Amplitude
 
 * In case of sound, it is air pressure (dBA)
 
@@ -80,7 +87,7 @@
 
     * 10dBm = 10mW
 
-## Filtering
+# Filtering
 
 * You can extract that oscillation from sum of a lot of oscillations
 
@@ -88,7 +95,7 @@
 
 * Frequency response
 
-## Modulation
+# Modulation
 
 * How do we encode useful data in oscillation
 
@@ -102,11 +109,11 @@
 
 * FM (frequency modulation), AM (amplitude modulation), PM (phase modulation) - you can modulate both analog and digital waveform
 
-## What is phase?
+# What is phase?
 
 * Rewinding or jumping around sinewave
 
-## Digital modulation, and effects of square signal on RF (harmonics)
+# Digital modulation, and effects of square signal on RF (harmonics)
 
 * Squarewave signal contains frequency elements of a lot of frequencies
 
@@ -116,7 +123,7 @@
 
     * Note: 1 bit == 1 symbol
 
-## Mixing
+# Mixing
 
 * You can shift around that oscillation to other frequencies
 
@@ -124,7 +131,7 @@
 
 * Warning (DC offset) - it is good idea to stay away from exacly 0Hz and to remove DC
 
-## IQ signal
+# IQ signal
 
 * When mixing in the middle of some signal, it gets reflected on both sides of 0Hz
 
@@ -132,7 +139,7 @@
 
 * This allows us to have negative frequencies
 
-## Digitizing
+# Digitizing
 
 * Nyquist rule
 
@@ -146,15 +153,15 @@
 
 * AGC (automatic gain control)
 
-## Digital filtering
+# Digital filtering
 
 * CPU intensive
 
-## Digital mixing
+# Digital mixing
 
 Really simple
 
-## Impedance and impedance matching
+# Impedance and impedance matching
 
 * Impedance match == you are sending V that is "expected" further on in the circuit
 
@@ -174,7 +181,7 @@ Really simple
 
 * Smith chart
 
-## Tuning antenna
+# Tuning antenna
 
 * Antenna is "terminator" for transmission line
 
@@ -188,7 +195,7 @@ Really simple
 
 * Field strength measurement (0dBi antenna)
 
-## Spectrum analysis
+# Spectrum analysis
 
 * We can measure power over frequencies
 
@@ -196,7 +203,7 @@ Really simple
 
 * Swept specrtum analyzer (with filter and RF detector)
 
-## Modulation analysis
+# Modulation analysis
 
 * Modulation examples:
 
@@ -214,7 +221,7 @@ Really simple
 
 * Constellation diagram
 
-## SDR uses for hackers
+# SDR uses for hackers
 
 * Replay attack
 
@@ -232,7 +239,7 @@ Really simple
 
 * Rolljam
 
-## Contact
+# Contact
 
 * [github.com/nemanjan00](https://github.com/nemanjan00)
 
