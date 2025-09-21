@@ -17,8 +17,6 @@ mainfont: Noto Sans
 
 * I learn by doing
 
-* I may be wrong, so, make sure to correct me, so we both learn
-
 * My employer does not care if my opinion is considered to reflect theirs
 
 # Oscillation
