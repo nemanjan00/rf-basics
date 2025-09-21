@@ -20,6 +20,14 @@ mainfont: Noto Sans
 
 * My employer does not care if my opinion is considered to reflect theirs
 
+# About presentation
+
+* Questions will be on the end
+
+* Idea is, hopefully anyone from begginer to advanced RF guy will learn something
+
+* It is just introduction, to give you basic intuitive understanding of RF
+
 # Oscillation
 
 * Constant - does not carry any information (DC)
