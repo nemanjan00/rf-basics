@@ -286,6 +286,22 @@ mainfont: Noto Sans
 
     * HackRF - If you want something that works on cheap
 
+* Pre made modems
+
+    * YardStickONE
+
+    * Evil RF Crow
+
+* Software
+
+    * SDR++ - Best overall performance
+
+    * SDRAngel - Ready to use demodulators/modulators, but, a bit unstable
+
+    * GNURadio - Building block of great things, but, a bit limited
+
+    * URH (Universal radio hacker) - for reversing 433MHz
+
 # Contact
 
 * [github.com/nemanjan00](https://github.com/nemanjan00)
