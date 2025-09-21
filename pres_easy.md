@@ -264,6 +264,26 @@ mainfont: Noto Sans
 
 * Rolljam (Samy Kamkar)
 
+# Recommended tools
+
+* VNA
+
+    * NanoVNA
+
+    * LiteVNA if you want more from it
+
+* Spectrum analyzer
+
+    * TinySA Ultra
+
+* SDR
+
+    * RTLSDR Blog V4 - On cheap
+
+    * BladeRF - for best experience
+
+    * HackRF - If you want something that works on cheap
+
 # Contact
 
 * [github.com/nemanjan00](https://github.com/nemanjan00)
