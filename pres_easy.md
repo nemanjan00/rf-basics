@@ -1,5 +1,6 @@
 ---
 title: "RF 101 - from Hz, to GHz in 1h"
+subtitle: "You can't smell it unless you got burned"
 author: "Nemanja Nedeljkovic"
 colortheme: "dolphin"
 fontsize: 9pt
@@ -167,11 +168,15 @@ mainfont: Noto Sans
 
 # Digital filtering
 
+* Inperfect, just as analog filtering
+
 * CPU intensive
 
 # Digital mixing
 
-Really simple
+* Really simple
+
+* Just multiply IQ with LO signal
 
 # Impedance and impedance matching
 
