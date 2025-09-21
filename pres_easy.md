@@ -23,9 +23,9 @@ mainfont: Noto Sans
 
 # Oscillation
 
-* Constant - does not carry any information
+* Constant - does not carry any information (DC)
 
-* Sinewave
+* Sinewave (or any other kind)
 
 # Resonance
 
@@ -43,6 +43,10 @@ mainfont: Noto Sans
 
 * Antenna can be RF antenna, microphone/speaker, light source/sensor, etc.
 
+# Smith chart
+
+![](./images/smith.jpg)
+
 # Frequency and wavelength
 
 * Frequency is how many times per second oscillation happens (Hz)
@@ -53,7 +57,7 @@ mainfont: Noto Sans
 
 * Higher frequency - shorter wavelength
 
-![Spectrum example](./spectrum.jpg)
+![Spectrum example](./images/spectrum.jpg)
 
 # Amplitude
 
@@ -89,6 +93,8 @@ mainfont: Noto Sans
 
 # Filtering
 
+* When you transmit, you just add your oscillation to sum of all other oscillations around
+
 * You can extract that oscillation from sum of a lot of oscillations
 
 * Antenna is a filter
@@ -107,11 +113,19 @@ mainfont: Noto Sans
 
 * We slightly change phase?
 
+* Some combination?
+
+* Multiple carriers?
+
+* No carrier? (or a lot of carriers?)
+
 * FM (frequency modulation), AM (amplitude modulation), PM (phase modulation) - you can modulate both analog and digital waveform
 
 # What is phase?
 
 * Rewinding or jumping around sinewave
+
+![](./images/phase.gif)
 
 # Digital modulation, and effects of square signal on RF (harmonics)
 
@@ -181,6 +195,14 @@ Really simple
 
 * Smith chart
 
+# VSWR
+
+![](./images/vswr.jpg)
+
+# Smith chart
+
+![](./images/smith.jpg)
+
 # Tuning antenna
 
 * Antenna is "terminator" for transmission line
@@ -237,7 +259,7 @@ Really simple
 
     * Encryption (Keeloq)
 
-* Rolljam
+* Rolljam (Samy Kamkar)
 
 # Contact
 
