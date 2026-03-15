@@ -52,7 +52,7 @@ mainfont: Noto Sans
 
 * Antenna "likes" to *transmit* and *receive* energy of that frequency
 
-* Antenna can be RF antenna, microphone/speaker, light source/sensor, etc.
+* Antenna is a type of transducer (like microphone/speaker, light source/sensor, etc.)
 
 # Smith chart
 
@@ -62,7 +62,7 @@ mainfont: Noto Sans
 
 * Frequency is how many times per second oscillation happens (Hz)
 
-    * Hz, kHz, MHz, THz...
+    * Hz, kHz, MHz, GHz, THz...
 
 * Wavelength is how much wave travels during one oscillation (m)
 
@@ -72,7 +72,7 @@ mainfont: Noto Sans
 
 # Amplitude
 
-* In case of sound, it is air pressure (dBA)
+* In case of sound, it is sound pressure level (dBA)
 
 * In case of RF, it is dBm
 
@@ -142,17 +142,17 @@ mainfont: Noto Sans
 
 * Squarewave signal contains frequency elements of a lot of frequencies
 
-* More bandwith
+* More bandwidth
 
-* Filtering before transmitting (Filter 10kB/s signal to 20kHz - low pass)
+* Filtering before transmitting (Filter 10kbit/s signal to 5kHz - low pass)
 
-    * Note: 1 bit == 1 symbol
+    * Note: 1 bit == 1 symbol (Nyquist: bandwidth = symbol rate / 2)
 
 # Mixing
 
 * You can shift around that oscillation to other frequencies
 
-* New signal is sum and difference of new signals
+* New signal is sum and difference of the two input signals
 
 * Warning (DC offset) - it is good idea to stay away from exactly 0Hz and to remove DC
 
@@ -204,7 +204,7 @@ mainfont: Noto Sans
 
 * 50Ohm as standard - good balance between power handling and loss
 
-* VSWR (or SWR, as hams call it) - difference between expected impedance (50Ohm -> 75Ohm == 1:1.5 VSWR)
+* VSWR (or SWR, as hams call it) - difference between expected impedance (50Ohm -> 75Ohm == 1.5:1 VSWR)
 
 * Reflection can fry transmitter
 
@@ -230,7 +230,7 @@ mainfont: Noto Sans
 
 * Antenna radiation pattern and gain
 
-    * Reference antenna - dBd and dipole - dBi isotropic antenna (does not exist)
+    * dBi = gain vs isotropic antenna (theoretical), dBd = gain vs dipole
 
 * Field strength measurement (0dBi antenna)
 
@@ -302,7 +302,7 @@ mainfont: Noto Sans
 
     * YardStickONE
 
-    * Evil RF Crow
+    * Evil Crow RF
 
 * Software
 
